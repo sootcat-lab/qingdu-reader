@@ -290,7 +290,7 @@
     try {
       article = new Readability(prepareClone()).parse();
     } catch (e) {
-      console.warn("reader-mode:", e);
+      console.warn("qingdu-reader:", e);
     }
     // 只有导航、链接列表的页面 Readability 也会返回结果，按正文长度再筛一道
     if (!article?.content || article.textContent.trim().length < 200) return toast(t("noArticle"));

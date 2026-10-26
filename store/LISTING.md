@@ -59,6 +59,8 @@ Qingdu Reader pulls the article out of ads, pop-ups, sidebars and recommendation
 - 许可证：MIT License
 - 隐私政策：不需要（不收集数据；`data_collection_permissions` 已声明 `none`）
 - 上传：`dist/qingdu-reader-<版本>-firefox.zip`
+- 图标：AMO 不读包内图标，要在「Images → Edit」单独上传 `icons/icon128.png`，否则列表页显示默认拼图
+- 屏幕截图：同一处上传 `screenshots/` 下 4 张（1280×800）
 - 源代码：选「否」（No）。`lib/` 是官方原版未修改文件，`reader.js`、`background.js` 未压缩
 - **审核员备注**（Notes to Reviewer，原样粘贴）：
 

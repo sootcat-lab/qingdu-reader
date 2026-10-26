@@ -24,10 +24,10 @@ api.action.onClicked.addListener(async (tab) => {
         files: ["lib/Readability.js", "lib/purify.js", "reader.js"],
       });
     }
-    if (res?.error) console.warn("reader-mode:", res.error);
+    if (res?.error) console.warn("qingdu-reader:", res.error);
   } catch (e) {
     // chrome://、about:、扩展商店等受限页面无法注入
-    console.warn("reader-mode:", e.message);
+    console.warn("qingdu-reader:", e.message);
   } finally {
     injecting.delete(tab.id);
   }
