@@ -36,4 +36,4 @@
 | `lib/` | Readability 与 DOMPurify 原版文件及许可证 |
 | `_locales/` | 界面文字（en / zh_CN / zh_TW） |
 | `build.sh` | 打包 Firefox / Chrome 两个上传包 |
-| `store/` | 商店文案、截图、宣传图、演示页（不进安装包） |
+| `store/` | 商店文案、截图、宣传图、演示页、图标 SVG 源文件 `icon-src/`（不进安装包） |
