@@ -1,0 +1,85 @@
+{
+  "extName": {
+    "message": "清读 Reader"
+  },
+  "extDescription": {
+    "message": "一键把杂乱的网页重排成干净舒适的阅读视图。可调字号、行宽、行距、字体和主题，针对中文排版优化。"
+  },
+  "actionTitle": {
+    "message": "阅读模式 (Alt+R)"
+  },
+  "commandDesc": {
+    "message": "开关阅读模式"
+  },
+  "fontSmaller": {
+    "message": "缩小字号"
+  },
+  "fontLarger": {
+    "message": "放大字号"
+  },
+  "narrower": {
+    "message": "收窄行宽"
+  },
+  "wider": {
+    "message": "加宽行宽"
+  },
+  "tighter": {
+    "message": "减小行距"
+  },
+  "looser": {
+    "message": "增大行距"
+  },
+  "narrowerLabel": {
+    "message": "窄"
+  },
+  "widerLabel": {
+    "message": "宽"
+  },
+  "tighterLabel": {
+    "message": "紧"
+  },
+  "looserLabel": {
+    "message": "松"
+  },
+  "switchFont": {
+    "message": "切换字体"
+  },
+  "switchTheme": {
+    "message": "切换主题"
+  },
+  "closeTitle": {
+    "message": "退出 (Esc)"
+  },
+  "themeAuto": {
+    "message": "自动"
+  },
+  "themeLight": {
+    "message": "浅色"
+  },
+  "themeSepia": {
+    "message": "米黄"
+  },
+  "themeDark": {
+    "message": "深色"
+  },
+  "fontSans": {
+    "message": "黑体"
+  },
+  "fontSerif": {
+    "message": "宋体"
+  },
+  "minutes": {
+    "message": "约 $N$ 分钟",
+    "placeholders": {
+      "n": {
+        "content": "$1"
+      }
+    }
+  },
+  "source": {
+    "message": "原文："
+  },
+  "noArticle": {
+    "message": "没有识别到正文"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "extName": {
+    "message": "Qingdu Reader"
+  },
+  "extDescription": {
+    "message": "Turn cluttered pages into a clean reading view. Adjust font size, width, line height, typeface and theme. Great for Chinese text."
+  },
+  "actionTitle": {
+    "message": "Reader view (Alt+R)"
+  },
+  "commandDesc": {
+    "message": "Toggle reader view"
+  },
+  "fontSmaller": {
+    "message": "Smaller text"
+  },
+  "fontLarger": {
+    "message": "Larger text"
+  },
+  "narrower": {
+    "message": "Narrower column"
+  },
+  "wider": {
+    "message": "Wider column"
+  },
+  "tighter": {
+    "message": "Tighter lines"
+  },
+  "looser": {
+    "message": "Looser lines"
+  },
+  "narrowerLabel": {
+    "message": "Narrow"
+  },
+  "widerLabel": {
+    "message": "Wide"
+  },
+  "tighterLabel": {
+    "message": "Tight"
+  },
+  "looserLabel": {
+    "message": "Loose"
+  },
+  "switchFont": {
+    "message": "Switch typeface"
+  },
+  "switchTheme": {
+    "message": "Switch theme"
+  },
+  "closeTitle": {
+    "message": "Close (Esc)"
+  },
+  "themeAuto": {
+    "message": "Auto"
+  },
+  "themeLight": {
+    "message": "Light"
+  },
+  "themeSepia": {
+    "message": "Sepia"
+  },
+  "themeDark": {
+    "message": "Dark"
+  },
+  "fontSans": {
+    "message": "Sans"
+  },
+  "fontSerif": {
+    "message": "Serif"
+  },
+  "minutes": {
+    "message": "$N$ min read",
+    "placeholders": {
+      "n": {
+        "content": "$1"
+      }
+    }
+  },
+  "source": {
+    "message": "Source: "
+  },
+  "noArticle": {
+    "message": "No article found on this page"
+  }
+}

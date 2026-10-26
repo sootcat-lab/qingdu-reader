@@ -1,0 +1,85 @@
+{
+  "extName": {
+    "message": "清讀 Reader"
+  },
+  "extDescription": {
+    "message": "一鍵把雜亂的網頁重排成乾淨舒適的閱讀視圖。可調字級、欄寬、行距、字體和主題，針對中文排版最佳化。"
+  },
+  "actionTitle": {
+    "message": "閱讀模式 (Alt+R)"
+  },
+  "commandDesc": {
+    "message": "開關閱讀模式"
+  },
+  "fontSmaller": {
+    "message": "縮小字級"
+  },
+  "fontLarger": {
+    "message": "放大字級"
+  },
+  "narrower": {
+    "message": "縮窄欄寬"
+  },
+  "wider": {
+    "message": "加寬欄寬"
+  },
+  "tighter": {
+    "message": "減少行距"
+  },
+  "looser": {
+    "message": "增加行距"
+  },
+  "narrowerLabel": {
+    "message": "窄"
+  },
+  "widerLabel": {
+    "message": "寬"
+  },
+  "tighterLabel": {
+    "message": "緊"
+  },
+  "looserLabel": {
+    "message": "鬆"
+  },
+  "switchFont": {
+    "message": "切換字體"
+  },
+  "switchTheme": {
+    "message": "切換主題"
+  },
+  "closeTitle": {
+    "message": "離開 (Esc)"
+  },
+  "themeAuto": {
+    "message": "自動"
+  },
+  "themeLight": {
+    "message": "淺色"
+  },
+  "themeSepia": {
+    "message": "米黃"
+  },
+  "themeDark": {
+    "message": "深色"
+  },
+  "fontSans": {
+    "message": "黑體"
+  },
+  "fontSerif": {
+    "message": "明體"
+  },
+  "minutes": {
+    "message": "約 $N$ 分鐘",
+    "placeholders": {
+      "n": {
+        "content": "$1"
+      }
+    }
+  },
+  "source": {
+    "message": "原文："
+  },
+  "noArticle": {
+    "message": "沒有識別到正文"
+  }
+}
